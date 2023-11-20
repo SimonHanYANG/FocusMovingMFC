@@ -1,0 +1,36 @@
+﻿  MainFrm.cpp
+d:\opencv470\opencv\build\include\opencv2\objdetect\aruco_board.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\simon_workspace\focus_moving_system\roboticbiopsy-laserspermimmobilization_0715_470_cuda_center\inference.h(45): warning C4305: “初始化”: 从“double”到“float”截断
+d:\simon_workspace\focus_moving_system\roboticbiopsy-laserspermimmobilization_0715_470_cuda_center\mainfrm.cpp(58): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\simon_workspace\focus_moving_system\roboticbiopsy-laserspermimmobilization_0715_470_cuda_center\mainfrm.cpp(365): warning C4305: “初始化”: 从“double”到“float”截断
+d:\simon_workspace\focus_moving_system\roboticbiopsy-laserspermimmobilization_0715_470_cuda_center\mainfrm.cpp(366): warning C4305: “初始化”: 从“double”到“float”截断
+d:\simon_workspace\focus_moving_system\roboticbiopsy-laserspermimmobilization_0715_470_cuda_center\mainfrm.cpp(381): warning C4244: “参数”: 从“float”转换到“__int64”，可能丢失数据
+d:\simon_workspace\focus_moving_system\roboticbiopsy-laserspermimmobilization_0715_470_cuda_center\mainfrm.cpp(388): warning C4244: “参数”: 从“float”转换到“__int64”，可能丢失数据
+d:\simon_workspace\focus_moving_system\roboticbiopsy-laserspermimmobilization_0715_470_cuda_center\mainfrm.cpp(586): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+d:\simon_workspace\focus_moving_system\roboticbiopsy-laserspermimmobilization_0715_470_cuda_center\mainfrm.cpp(915): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\simon_workspace\focus_moving_system\roboticbiopsy-laserspermimmobilization_0715_470_cuda_center\mainfrm.cpp(916): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\simon_workspace\focus_moving_system\roboticbiopsy-laserspermimmobilization_0715_470_cuda_center\mainfrm.cpp(926): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\simon_workspace\focus_moving_system\roboticbiopsy-laserspermimmobilization_0715_470_cuda_center\mainfrm.cpp(927): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\simon_workspace\focus_moving_system\roboticbiopsy-laserspermimmobilization_0715_470_cuda_center\mainfrm.cpp(972): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+d:\simon_workspace\focus_moving_system\roboticbiopsy-laserspermimmobilization_0715_470_cuda_center\mainfrm.cpp(996): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  1 of 1482 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  RoboticBiopsy.vcxproj -> D:\Simon_workspace\Focus_Moving_System\RoboticBiopsy-LaserSpermImmobilization_0715_470_cuda_center\x64\Release\RoboticICSI-Laser-DATABASE.exe
+  Microsoft (R) COFF/PE Editor Version 14.16.27048.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  

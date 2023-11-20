@@ -1,0 +1,13 @@
+﻿  Camera.cpp
+d:\simon_workspace\roboticbiopsy-laserspermimmobilization\camera.cpp(38): warning C4305: “return”: 从“int”到“bool”截断
+  Dlg_Tools.cpp
+  MainFrm.cpp
+d:\simon_workspace\roboticbiopsy-laserspermimmobilization\mainfrm.cpp(427): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  RoboticBiopsy.cpp
+  RoboticBiopsyView.cpp
+  正在生成代码
+  291 of 928 functions (31.4%) were compiled, the rest were copied from previous compilation.
+    92 functions were new in current compilation
+    30 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  RoboticBiopsy.vcxproj -> D:\Simon_workspace\RoboticBiopsy-LaserSpermImmobilization\Release\RoboticICSI-Laser-DATABASE.exe

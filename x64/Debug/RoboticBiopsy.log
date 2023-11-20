@@ -1,0 +1,38 @@
+﻿  MainFrm.cpp
+d:\opencv470\opencv\build\include\opencv2\objdetect\aruco_board.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\zyb\roboticbiopsy-laserspermimmobilization_0711_470\inference.h(44): warning C4305: “初始化”: 从“double”到“float”截断
+d:\zyb\roboticbiopsy-laserspermimmobilization_0711_470\mainfrm.cpp(41): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\zyb\roboticbiopsy-laserspermimmobilization_0711_470\mainfrm.cpp(501): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\zyb\roboticbiopsy-laserspermimmobilization_0711_470\mainfrm.cpp(525): warning C4305: “初始化”: 从“double”到“float”截断
+d:\zyb\roboticbiopsy-laserspermimmobilization_0711_470\mainfrm.cpp(526): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\zyb\roboticbiopsy-laserspermimmobilization_0711_470\mainfrm.cpp(622): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+d:\zyb\roboticbiopsy-laserspermimmobilization_0711_470\mainfrm.cpp(802): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\zyb\roboticbiopsy-laserspermimmobilization_0711_470\mainfrm.cpp(803): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\zyb\roboticbiopsy-laserspermimmobilization_0711_470\mainfrm.cpp(813): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\zyb\roboticbiopsy-laserspermimmobilization_0711_470\mainfrm.cpp(814): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+d:\zyb\roboticbiopsy-laserspermimmobilization_0711_470\mainfrm.cpp(859): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+d:\zyb\roboticbiopsy-laserspermimmobilization_0711_470\mainfrm.cpp(883): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/LTCG”规范)
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  正在生成代码
+  已完成代码的生成
+  RoboticBiopsy.vcxproj -> D:\ZYB\RoboticBiopsy-LaserSpermImmobilization_0711_470\x64\Debug\RoboticICSI-Laser-DATABASE.exe
+  Microsoft (R) COFF/PE Editor Version 14.16.27048.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
